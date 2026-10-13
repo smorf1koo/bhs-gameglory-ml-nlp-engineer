@@ -1,0 +1,51 @@
+pair_id,game_id_a,title_a,game_id_b,title_b,label,note
+1,2039480,The Little Atlas,1426860,Stormline,0,different niche
+2,348850,Rustbound,741960,The Glass Hive,1,same niche
+3,999860,Emberheart,377640,Rusted Hive,0,different niche
+4,1249850,The Paper Pilgrim,1269680,Morcross: Lunar Quarry,1,same niche
+5,1636020,Wandering Parade,2422800,Wandering Colony,1,same niche
+6,362290,Saltbreak: Deluxe,984200,Frostward,0,different niche
+7,1072610,Paper Thicket,2881370,The Broken Tides,0,neighbouring niches (hard negative)
+8,2431170,Sunken Oracle,999860,Emberheart,0,neighbouring niches (hard negative)
+9,2979370,Parade of Varcross,435630,Comet of Thalstead,1,same niche
+10,328790,Rustfall 3,1443500,Thaldris: Copper Lullaby,0,different niche
+11,706700,Rusted Bastion,2603810,The Verdant Orchard,0,different niche
+12,2985150,Bonewright: Second Wind,2474770,Patchwork Colony,1,same niche
+13,1893790,The Lunar Zenith,183050,The Velvet Hive,1,same niche
+14,156260,Sunken Caravan,1017440,Brass Gardens,1,same niche
+15,1349390,Engines of Sorhaven,1485890,Restless Relay,1,same niche
+16,321640,Feral Echoes,2361440,Cobalt Tides,1,same niche
+17,1735660,Copper Harbor,1640470,The Wandering Foundry,1,same niche
+18,334690,Circuit of Nymoor,1976460,Frostdrift,0,neighbouring niches (hard negative)
+19,135090,The Wandering Sundial,1115370,Quiet Spire,0,different niche
+20,1727810,The Neon Archive,1569940,Silent Relay,1,same niche
+21,2164230,Circuit of Ashholt,1249850,The Paper Pilgrim,0,different niche
+22,2929800,The Last Engines,1371250,The Crimson Sundial,0,different niche
+23,590880,Starlit Circuit,445840,Glimmercraft: Second Wind,0,neighbouring niches (hard negative)
+24,701120,Stormbound 3,2924550,Silent Orchard,0,different niche
+25,1216460,Dunfell: Broken Bastion,348050,Sparkdrift,0,neighbouring niches (hard negative)
+26,2793020,The Paper Meadow,2972660,Cartel of Wenwick,0,neighbouring niches (hard negative)
+27,782210,Verdant Pilgrim,1636020,Wandering Parade,1,same niche
+28,154470,Sparkcraft,932950,Silent Sundial,0,different niche
+29,2254580,The Scarlet Vigil,1575200,Frostwright 2,1,same niche
+30,849780,Mossbound,2539070,Sparkspire: The Long Night,0,different niche
+31,2556360,Clockrunner 2,2090760,Galholt: Copper Gardens,0,neighbouring niches (hard negative)
+32,278250,Ivory Embers,1569940,Silent Relay,1,same niche
+33,2520580,The Amber Orchard,1106060,Eldcross: Amber Beacon,1,same niche
+34,1206150,Colony of Brimark,545310,Hidden Outpost,1,same niche
+35,1395160,Cairridge: Verdant Harbor,2412080,The Distant Colony,1,same niche
+36,1556350,Brass Vigil,1371250,The Crimson Sundial,1,same niche
+37,1176110,The Lunar Marrow,440070,Mossdrift II,1,same niche
+38,1117950,Gearward,183050,The Velvet Hive,0,different niche
+39,432020,Lullaby of Cairford,782210,Verdant Pilgrim,1,same niche
+40,215300,The Silent Outpost,2731680,Quarry of Vesdris,0,neighbouring niches (hard negative)
+41,1106060,Eldcross: Amber Beacon,999860,Emberheart,1,same niche
+42,169740,The Gilded Zenith,299290,Neon Oracle,1,same niche
+43,540250,Starlit Rift,230300,Haelridge: Hidden Drift,1,same niche
+44,1842900,Crimson Oracle,2096460,Copper Tides,1,same niche
+45,2908290,Shattered Caravan,2420320,Pale Hive,1,same niche
+46,2327280,Oracle of Vesmark,1059850,Elddeep: Cobalt Orchard,0,neighbouring niches (hard negative)
+47,2912790,Zenith of Rhereach,989470,Hearth of Dunreach,0,different niche
+48,1676870,Bramblerunner 3,664340,Bonekeep,0,different niche
+49,812810,Emberbound: The Long Night,1597160,Thornforge,0,neighbouring niches (hard negative)
+50,984200,Frostward,1994360,Ledger of Duncross,0,different niche
